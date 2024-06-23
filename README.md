@@ -73,7 +73,7 @@ This is an intermediate course, so you should have some experience coding in Pyt
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-The content is consolidated the course on [coursera](https://www.coursera.org/learn/generative-ai-with-llms/) by [John Nguyen](https://github.com/embed-coder).
+The content is consolidated from the course on [coursera](https://www.coursera.org/learn/generative-ai-with-llms/) by [John Nguyen](https://github.com/embed-coder).
 
 The course is taught by:
 - Chris Fregly
