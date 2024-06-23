@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=500px height=300px src="https://media.licdn.com/dms/image/D4D12AQGkHY89zhGDZA/article-cover_image-shrink_720_1280/0/1691431976579?e=2147483647&v=beta&t=lgk0jF-6kju4RyG68tF_4cxZklJqF3rtXrbQEcEYX7c" alt="Project page cover"></a>
 </p>
 
 <h3 align="center">Generative AI with Large Language Models</h3>
